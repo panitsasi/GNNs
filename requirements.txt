@@ -1,0 +1,8 @@
+torch
+torch-geometric
+networkx
+matplotlib
+numpy
+scikit-learn
+torch-geometric-temporal
+
